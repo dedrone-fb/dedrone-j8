@@ -439,3 +439,4 @@ temp/
 
 .sts4-cache/
 node
+/java/.jqwik-database
